@@ -10,7 +10,7 @@ You 'll now need an Rdio API key:
 
 1. [Register for an Rdio API account](http://developer.rdio.com/member/register)
 1. Click the link in the confirmation email to confirm your developer account
-1. On the page that pops up, click the 'Apply for access to use the API' link. 
+1. On the page that pops up, click the **Apply for access to use the API** link. 
 1. On the *Rdio Application Registration* page:
  1. For **Name of your application**, enter `rdio-mass-sync`
  1. Make sure **Issue a new key for rdio API** is *checked*
