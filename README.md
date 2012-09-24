@@ -37,4 +37,4 @@ Otherwise, just download and unpack the [latest version](https://github.com/john
 1. When the request has been sent, open Rdio.com and verify the sync status of your collection.
 
 # Credits
-Thanks to [Charles Blaxland](https://github.com/ampedandwired) for a starting point for [this README](https://github.com/ampedandwired/rdio-xbmc/wiki).
+Thanks to [Charles Blaxland](https://github.com/ampedandwired) for a [starting point](https://github.com/ampedandwired/rdio-xbmc/wiki) for this README.
