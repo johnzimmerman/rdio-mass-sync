@@ -21,7 +21,8 @@ You 'll now need an Rdio API key:
 ## Install Rdio Mass Sync
 Rdio Mass Sync add-on is available from the [GitHub](https://github.com/johnzimmerman/rdio-mass-sync).
 
-If you're familliar with GitHub, you can [clone the repository](https://github.com/johnzimmerman/rdio-mass-sync). Otherwise, just download and unpack the [latest version](https://github.com/johnzimmerman/rdio-mass-sync/zipball/master).
+If you're familliar with GitHub, you can [clone the repository](https://github.com/johnzimmerman/rdio-mass-sync). 
+Otherwise, just download and unpack the [latest version](https://github.com/johnzimmerman/rdio-mass-sync/zipball/master).
 
 ## Configure Rdio Mass Sync
 1. Open `rdio_consumer_credentials.py` in your favorite text editor
