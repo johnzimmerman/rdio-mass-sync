@@ -33,7 +33,7 @@ Otherwise, just download and unpack the [latest version](https://github.com/john
 1. You'll be presented with an Rdio URL
 1. Copy and paste the URL into your browser.
 1. On the page that pops up, click **Allow**
-1. Copy and paste the PIN code back into mass sync
+1. Copy and paste the PIN code back into Rdio Mass Sync
 1. When the request has been sent, open Rdio.com and verify the sync status of your collection.
 
 # Credits
