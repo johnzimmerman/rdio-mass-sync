@@ -34,3 +34,6 @@ If you're familliar with GitHub, you can [clone the repository](https://github.c
 1. On the page that pops up, click **Allow**
 1. Copy and paste the PIN code back into mass sync
 1. When the request has been sent, open Rdio.com and verify the sync status of your collection.
+
+# Credits
+Thanks to [Charles Blaxland](https://github.com/ampedandwired) for a starting point for [this README](https://github.com/ampedandwired/rdio-xbmc/wiki).
