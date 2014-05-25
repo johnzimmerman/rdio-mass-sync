@@ -26,7 +26,8 @@ try:
     rdio.complete_authentication(verifier)
 
     # get tracks in collection
-    tracks = rdio.call('getTracksInCollection', {'sort': 'artist'})
+    tracks = rdio.call('getTracksInCollection',
+                       {'sort': 'artist', 'extras': '-*,key'})
     if (tracks['status'] == 'ok'):
         for track in tracks['result']:
             # add keys to a list
